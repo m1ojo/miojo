@@ -1,6 +1,6 @@
 # MIOJO
 
-**MIOJO** **I**s an **O**nline **J**udge **O**rchestrator. In other words, it's a platform where you can run contests using competitive programming problems from multiple Online Judges (OJ) like [Codeforces](codeforces.com), [URI](urionlinejudge.com) and [UVA](uva.onlinejudge.org).
+**MIOJO** **I**s an **O**nline **J**udge **O**rchestrator. In other words, it's a platform where you can run contests using competitive programming problems from multiple Online Judges (OJ) like [Codeforces](https://codeforces.com), [URI](https://www.urionlinejudge.com.br/) and [UVA](https://uva.onlinejudge.org).
 
 One of the main reasons why we opted to develop this project and make it [Free and Open Source Software (FOSS)](https://en.wikipedia.org/wiki/Free_and_open-source_software), is that we are interested on the _extensibility_ of OJ bots, so if for any reason your preferred OJ isn't available, it should be easy to add it yourself or quick to ask for someone to do that for you ([via an issue](https://github.com/m1ojo/miojo/issues)).
 
